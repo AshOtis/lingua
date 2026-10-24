@@ -1,0 +1,11 @@
+{
+  "id": "lingua",
+  "name": "Lingua",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "A companion for reading Lingua Latina: catch words as you read, review them on a spaced schedule, and drill the endings each chapter has taught. Everything stays in your daily notes.",
+  "author": "AshOtis",
+  "authorUrl": "https://github.com/AshOtis",
+  "fundingUrl": "https://buymeacoffee.com/ashotis",
+  "isDesktopOnly": false
+}
